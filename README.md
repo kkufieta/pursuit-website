@@ -1,5 +1,5 @@
 # Personal Website
-This is my personal website written in React.
+This is my personal website written in React, inspired by [this design on Squarespace](https://www.squarespace.com/templates/pursuit-demo).
 
 ## TO-Do
 Add sections for:
